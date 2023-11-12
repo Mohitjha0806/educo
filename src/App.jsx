@@ -5,7 +5,11 @@ const App = () => {
     <>
       <h1>Hy mohit</h1>
       <h1>Hy mohit</h1>
-      <h1>Hy mohit</h1>
+      <h1>Hy mohit is may best friend </h1>
+      <h1>Hy mohit is may best friend </h1>
+      <h1>Hy mohit is may best friend </h1>
+      <h1>Hy mohit is may best friend </h1>
+      <h1>Hy mohit is may best friend </h1>
       </>
   )
 }
